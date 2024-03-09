@@ -8,7 +8,7 @@ Welcome to the Movie Review App repository! This full-stack application is built
 #### Mobile View:
 Mobile Responsive
 
-![image](https://github.com/SiddheshKukade/Movie-review-full-stack-java-spring-boot-reactjs/assets/65951872/3150c436-62cf-44a7-9399-f056ab6e0ec8)
+![image](https://github.com/pushprajjaiswal/Movie-review-application/assets/65951872/3150c436-62cf-44a7-9399-f056ab6e0ec8)
 #### Writing Reviews:
 ![image](https://github.com/SiddheshKukade/Movie-review-full-stack-java-spring-boot-reactjs/assets/65951872/4d2264de-a891-4e51-a63a-5f11fb2acc59)
 
@@ -30,7 +30,7 @@ Mobile Responsive
 
 1. **Clone the repository:**
  
-git clone [https://github.com/SiddheshKukade/Movie-review-full-stack-java-spring-boot-reactjs.git](https://github.com/SiddheshKukade/Movie-review-full-stack-java-spring-boot-reactjs/edit/master/README.md)
+git clone [https://github.com/pushprajjaiswal/Movie-review-application.git](https://github.com/pushprajjaiswal/Movie-review-application/edit/master/README.md)
  
 
 2. **Navigate to the backend directory:**
@@ -85,4 +85,4 @@ npm start
 If you want to contribute to this project and make it better, your help is very welcome. Create a pull request with your proposed changes, and we will review it as soon as possible.
 
 Happy coding! 🚀
-@SiddheshKukade
+@pushprajjaiswal
